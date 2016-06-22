@@ -1,0 +1,62 @@
+Legend: 
+  * - An event occurred.
+  > - A write operation occurred.
+  < - A read operation occurred.
+ 
+1      Recording on 16-May-2016 at 11:54:05.194. Binary data in little endian format.
+2      > 6 ascii values.
+       *IDN?
+
+3      < 7 ascii values.
+       21.50
+
+4      < 7 ascii values.
+       21.50
+
+5      < 7 ascii values.
+       21.50
+
+6      < 7 ascii values.
+       21.50
+
+7      < 7 ascii values.
+       21.50
+
+8      < 7 ascii values.
+       21.50
+
+9      < 7 ascii values.
+       21.50
+
+10     < 7 ascii values.
+       21.50
+
+11     < 7 ascii values.
+       21.50
+
+12     < 7 ascii values.
+       21.50
+
+13     < 7 ascii values.
+       21.50
+
+14     < 7 ascii values.
+       21.50
+
+15     < 7 ascii values.
+       21.50
+
+16     < 7 ascii values.
+       21.50
+
+17     < 7 ascii values.
+       21.50
+
+18     < 7 ascii values.
+       21.50
+
+19     < 7 ascii values.
+       21.50
+
+20       Recording off.
+
